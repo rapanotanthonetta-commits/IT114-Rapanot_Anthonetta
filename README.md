@@ -10,18 +10,12 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main()
 {
-    printf("================================\n")
-    ;
-        printf(" STUDENT PROFILE\n");
-        
-    printf("================================\n")
-    ;
-        printf("Name: Anthonetta Rapanot\n");
-        printf("Course: BS Information Technology\n");
-        printf("Year level: 1st Year\n");
-        printf("Future Career: web Developer\n");
-        
-        printf("===============================\n");
-        
-            return 0;
+    printf("\n");
+    printf("•---------------------------------•\n");
+    printf("|     welcome to programming...      |\n");
+    printf("•---------------------------------•\n");
+    printf("|                                 |\n");
+    printf("|    LEARN •  CREATE •  INNOVATIVE  |\n");
+    printf("•---------------------------------•\n");
+    return 0;
 }
